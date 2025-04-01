@@ -1,45 +1,43 @@
-# Lan-Yjing
-兰雅静主导的研究，基于功能性近红外光谱技术，探索中文与其他书写形式在脑区激活模式上的异同。
-# Brain Activation Studies in Chinese Writing
+# 兰雅静 · 中文书写脑区激活研究
 
-This repository contains research materials and publications related to the study of brain activation during Chinese and other forms of writing, led by **Yajing Lan**.
+兰雅静主导的研究，基于功能性近红外光谱（fNIRS）技术，探索中文与其他书写形式在脑区激活模式上的异同。
 
-## 🧠 Research Focus
+## 🧠 研究方向
 
-Using **functional near-infrared spectroscopy (fNIRS)**, the research explores:
+本研究聚焦于：
 
-- The **neural activation patterns** associated with Chinese character writing
-- A **comparative analysis** between Chinese writing and other forms of writing (e.g. alphabetic scripts)
-- Insights into **language-specific motor and perceptual processes** in children and adults
+- 中文书写过程中大脑皮层的激活模式；
+- 中文书写与其他语言书写形式（如拼音文字）的脑区激活对比；
+- 不同语言系统下的运动控制与感知加工差异，尤其是在儿童与成人中的表现。
 
-## 📄 Publications
+## 📄 相关论文
 
 ### 1.  
-**Title:** *Research on the Activation of Brain Regions in Chinese Writing and Other Forms of Writing*  
-**Author:** Yajing Lan  
-**Status:** Under review / Published (update as needed)  
+**题目：**《中文书写与其他形式书写脑区激活的研究》  
+**作者：** 兰雅静  
+**状态：** 未发表
 
 ### 2.  
-**Title:** *Study on the Similarities and Differences of Brain Activation Between Chinese Writing and Other Forms of Writing Based on Functional Near-Infrared Spectroscopy*  
-**Author:** Yajing Lan  
-**Status:** Under review / Published (update as needed)  
+**题目：**《基于功能性近红外光谱探究中文书写与其他形式书写脑区激活差异的研究》  
+**作者：** 兰雅静  
+**状态：** 未发表
 
-## 🧑‍🔬 Author
+## 👩‍🔬 作者简介
 
-**Yajing Lan (兰雅静)**  
-Undergraduate Researcher  
-Fujian University of Traditional Chinese Medicine  
-Email: 2738424616@qq.com
+**兰雅静（Yajing Lan）**  
+福建中医药大学 康复医学院 本科生  
+邮箱：2738424616@qq.com
 
-## 📎 Related Tools & Techniques
+## 🛠️ 使用技术与方法
 
-- fNIRS (functional near-infrared spectroscopy)
-- E-Prime 3.0 experimental design
-- Data visualization & statistical analysis using Python/Excel
-- EndNote & CNKI / PubMed literature review
+- 功能性近红外光谱成像技术（fNIRS）
+- E-Prime 3.0 实验设计与实施
+- Python / Excel 数据处理与可视化
+- 文献检索与管理（PubMed、中国知网、EndNote）
 
-## 📬 Contact
+## 📬 联系方式
 
-Feel free to reach out if you're interested in collaboration or learning more about this research.  
-Email: [2738424616@qq.com](mailto:2738424616@qq.com)
+如您对本研究感兴趣或希望合作，欢迎通过以下方式联系：
+
+📧 邮箱：[2738424616@qq.com](mailto:2738424616@qq.com)
 
